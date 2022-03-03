@@ -5,6 +5,6 @@ public class Code1 {
 	{
 		int res=0;
 		res=x/y;
-		return res;
+		return  res;
 	}
 }
